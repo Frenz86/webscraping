@@ -119,5 +119,4 @@ except NameError:
 
 st.markdown("---")
 
-st.markdown('*Made with* :heart: * by [@DataChaz ](https://twitter.com/DataChaz)* [![this is an image link](https://i.imgur.com/Ltgzb7Y.png)](https://www.buymeacoffee.com/cwar05)')
-
+st.markdown('*Made with* :heart: * by [@Frenz86 ])
